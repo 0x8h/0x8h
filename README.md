@@ -25,15 +25,12 @@ Country:
 
 ### Links?
 > discord (Archive lol)
-
 > [Clickme!](https://discord.gg/uBhTBaQy4K)
 
 > Youtube channel (trash)
-
 > [Click me!](https://www.youtube.com/@KT_____san)
 
 > My site
-
 > [Click me!](https://ktxxxx0828.github.io/KTsite)
 
 <!--
