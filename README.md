@@ -14,8 +14,16 @@
 >>> * I dont like math(hate this), sciense
 >>>> Country  
 >>>> * Japanese kids.
->>>> 
+
 ### Links?
+> discord (Archive lol)
+> [Clickme!](https://discord.gg/uBhTBaQy4K)
+
+> Youtube channel (trash)
+> [Click me!](https://www.youtube.com/@KT_____san)
+
+> My site
+> [Click me!](https://ktxxxx0828.github.io/KTsite)
 
 <!--
 **KTxXxX0828/KTxXxX0828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
