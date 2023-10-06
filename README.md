@@ -3,12 +3,12 @@
 ### I am a junior high school student who is interested in the Internet and programming. There are only a few languages I can do, but I am learning them every day. (I use Translation :l)  
 > MyStatus
 >> Skills
-* html
-* css
-* Js
-* C++(Just a little :D)
-* python(Just a little but learning now)
-* C#(Learning now)
+>> * html
+>> * css
+>> * Js
+>> * C++(Just a little :D)
+>> * python(Just a little but learning now)
+>> * C#(Learning now)
 
 <!--
 **KTxXxX0828/KTxXxX0828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
