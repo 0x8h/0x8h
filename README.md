@@ -9,10 +9,10 @@
 >> * C++(Just a little :D)
 >> * python(Just a little but learning now)
 >> * C#(Learning now)
-> Subject
+>>> Subject
 >> * I like Social,English,PE
 >> * I dont like math(hate this), sciense
-> Country
+>>>> Country
 >> Japanese kids. 
 
 <!--
