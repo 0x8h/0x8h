@@ -1,14 +1,22 @@
 # Hi, my name is KT.
 ## I'm 14 years old.
 ### I am a junior high school student who is interested in the Internet and programming. There are only a few languages I can do, but I am learning them every day. (I use Translation :l)  
- #About me
+# About me
+
 <font color=blue>Skills</font>
+
 <font color=orange>* html</font>
+
 <font color=purple>* css</font>
+
 <font color=yellow>* Js</font>
+
 <font color=pink>* C++(Just a little :D)</font>
+
 <font color=blue>* python(Just a little but learning now)</font>
+
 <font color=green>* C#(Learning now)</font>
+
 >Subject
 >> * I like Social,English,PE
 >> * I dont like math(hate this), sciense
