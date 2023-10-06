@@ -5,17 +5,17 @@
 
 <font color=blue>Skills</font>
 
-<font color=orange>html</font>
+* Html
 
-<font color=purple>css</font>
+* Css
 
-<font color=yellow>Js</font>
+* Js
 
-<font color=pink>C++(Just a little :D)</font>
+* C++(Just a little :D)
 
-<font color=blue>python(Just a little but learning now)</font>
+* python(Just a little but learning now)
 
-<font color=green>C#(Learning now)</font>
+* C#(Learning now)
 
 >Subject
 >> * I like Social,English,PE
