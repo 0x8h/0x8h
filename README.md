@@ -1,7 +1,7 @@
 # Hi, my name is KT.
 ## I'm 14 years old.
 ### I am a junior high school student who is interested in the Internet and programming. There are only a few languages I can do, but I am learning them every day. (I use Translation :l)  
-> #About me
+ #About me
 <font color=blue>Skills</font>
 <font color=orange>* html</font>
 <font color=purple>* css</font>
