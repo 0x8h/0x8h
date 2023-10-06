@@ -13,7 +13,7 @@
 >>> * I like Social,English,PE
 >>> * I dont like math(hate this), sciense
 >>>> Country  
->>>> Japanese kids. 
+>>>> * Japanese kids. 
 
 <!--
 **KTxXxX0828/KTxXxX0828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
