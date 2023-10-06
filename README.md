@@ -1,6 +1,6 @@
-### Hi, my name is KT.
+# Hi, my name is KT.
 ## I'm 14 years old.
-# I am a junior high school student who is interested in the Internet and programming. There are only a few languages I can do, but I am learning them every day.
+### I am a junior high school student who is interested in the Internet and programming. There are only a few languages I can do, but I am learning them every day.
 ```html:title
 <title>Myskills</title>  
 ```
