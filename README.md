@@ -12,7 +12,7 @@
 >>> Subject
 >>> * I like Social,English,PE
 >>> * I dont like math(hate this), sciense
->>>> Country
+>>>> Country  
 >>>> Japanese kids. 
 
 <!--
