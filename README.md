@@ -20,8 +20,14 @@ Skills:
 Subject:
 * I like Social,English,PE
 * I dont like math(hate this), sciense
+
 Country:
+
 * Japanese kids.
+
+In real lifes:
+
+I like cycling!
 
 ### Links?
 > discord (Archive lol)
