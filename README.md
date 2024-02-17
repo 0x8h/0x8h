@@ -1,33 +1,49 @@
-# Hi, my name is KT.
+> *for busy people*
+ ## My name is KT. (ptr35)
+ i'm 14 years old japanese kid
+ <br>
+ I can C#, html, javascript.
+ <br>
+ thank you.
+
+> *for not busy people* 
+# Hi, my name is KT. (ptr35)
 ## I'm 14 years old.
-### I am a junior high school student who is interested in the Internet and programming. There are only a few languages I can do, but I am learning them every day. (I used Translation :I)  
+### I am a junior high school student who is interested in the Internet and programming. There are only a few languages I can do, but I am learning them every day. (I used Translation :l)  
 # About me
 
-Skills:
+>Skills:
+>* C#(Learning now)
+>* Html 
+>* Css
+>* Js
+>* C++, C(Just a little but learning now)
+>* python(Just a little but learning now)
 
-* Html 
+>I Learning to:
+>* C#
+>* C, C++
+>* python
+>* x86 assembly
+>* reverse engineer
+>* English(LOL)
 
-* Css
+>I like:
+>* Social study,English,PE
+>* delicious food
+>* cycling
+>* and my favorite person!
 
-* Js
+>I dont like:
+>* math, sciense
+>* annoying people
+>* ball game
+>* swimming
 
-* C++(Just a little :D)
+>Country:
+>* Japanese 🗾
 
-* python(Just a little but learning now)
-
-* C#(Learning now)
-
-Subject:
-* I like Social,English,PE
-* I dont like math(hate this), sciense
-
-Country:
-
-* Japanese kids.
-
-In real lifes:
-
-I like cycling!
+>...and like sports (but i dont like ball game)
 
 ### Links?
 > discord (Archive lol)
