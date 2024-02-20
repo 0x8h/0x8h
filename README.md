@@ -12,7 +12,7 @@
 ### I am a junior high school student who is interested in the Internet and programming. There are only a few languages I can do, but I am learning them every day. (I used Translation :l)  
 # About me
 
->Skills:
+Skills:
 >* C#(Learning now)
 >* Html 
 >* Css
@@ -20,7 +20,7 @@
 >* C++, C(Just a little but learning now)
 >* python(Just a little but learning now)
 
->I Learning to:
+I Learning to:
 >* C#
 >* C, C++
 >* python
@@ -28,29 +28,29 @@
 >* reverse engineer
 >* English(LOL)
 
->I like:
+I like:
 >* Social study,English,PE
 >* delicious food
 >* cycling
 >* and my favorite person!
+>* sports (i dont like ballgame)
 
->I dont like:
+I dont like:
 >* math, sciense
 >* annoying people
 >* ball game
 >* swimming
+>* ballgame
 
 >Country:
 >* Japanese 🗾
-
->...and like sports (but i dont like ball game)
 
 ### Links?
 > discord (Archive lol)
 > [Clickme!](https://discord.gg/uBhTBaQy4K)
 
 > Youtube channel (trash)
-> [Click me!](https://www.youtube.com/@KT_____san)
+> [Click me!](https://www.youtube.com/@KT_ptr35)
 
 > My site
 > [Click me!](https://ktxxxx0828.github.io/KTsite)
