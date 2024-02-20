@@ -33,17 +33,25 @@ I like:
 >* delicious food
 >* cycling
 >* and my favorite person!
->* sports (i dont like ballgame)
+>* sports
 
 I dont like:
 >* math, sciense
 >* annoying people
 >* ball game
 >* swimming
->* ballgame
 
->Country:
+Country:
 >* Japanese 🗾
+
+Using software:
+>* Visual studio code
+>* Visual studio
+>* IDA(or ImHex)
+>* Visualbat
+>* Resourcehacker
+>* Paint.net
+>* VGApainter
 
 ### Links?
 > discord (Archive lol)
