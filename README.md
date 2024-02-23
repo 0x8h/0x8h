@@ -17,12 +17,12 @@ Skills:
 >* Html 
 >* Css
 >* Js
->* C++, C(Just a little but learning now)
+>* C++(Just a little but learning now)
 >* python(Just a little but learning now)
 
 I Learning to:
 >* C#
->* C, C++
+>* C++
 >* python
 >* x86 assembly
 >* reverse engineer
