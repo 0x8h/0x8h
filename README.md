@@ -53,6 +53,14 @@ Using software:
 >* Paint.net
 >* VGApainter
 
+Browser:
+>* Chromium
+>* Brave
+>* OperaGX
+
+How to reach me:
+>* Send mail to ptr35sute1@bangban.uk (if mail deleted, I rewrite new mail.)
+
 ### Links?
 > discord (Archive lol)
 > [Clickme!](https://discord.gg/uBhTBaQy4K)
