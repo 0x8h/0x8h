@@ -1,8 +1,10 @@
 > *for busy people*
  ## My name is KT. (ptr35)
- i'm 14 years old japanese kid
+ 14 years old developer from JP
  <br>
- I can C#, html, javascript.
+ I learning C#, C++, python
+ <br>
+Junior high school sophomore
  <br>
  thank you.
 
