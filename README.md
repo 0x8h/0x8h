@@ -73,9 +73,18 @@ How to reach me:
 > My site
 > [Click me!](https://ktxxxx0828.github.io/KTsite)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KTxXxX0828&layout=compact&hide=makefile&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KTxXxX0828&layout=compact&hide=makefile&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 *Noob moment*
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/1200px-C_Sharp_Logo_2023.svg.png" width="50" height="50"
+ onclick="location.href='https://en.wikipedia.org/wiki/C_Sharp_(programming_language)'"></img>
+<img src="https://play-lh.googleusercontent.com/RAA-PGAoUanS_aOu8qhDvQZ1d8jp_lhR_-zJrcvxpABgQtNQylCxNac_WvN-vVIz7Hw" width="50" height="50"
+ onclick="location.href='https://en.wikipedia.org/wiki/C%2B%2B'"></img>
+<img src="https://user-images.githubusercontent.com/103866722/194773833-8571f323-4fa8-4036-a51c-57b9d29c683b.svg" width="50" height="50" 
+  onclick="location.href='https://en.wikipedia.org/wiki/Assembly_language'"></img>
+
 
 <!--
 **KTxXxX0828/KTxXxX0828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
