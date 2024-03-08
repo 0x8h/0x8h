@@ -73,6 +73,10 @@ How to reach me:
 > My site
 > [Click me!](https://ktxxxx0828.github.io/KTsite)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktxxxx0828&hide=stars&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+*Noob moment*
+
 <!--
 **KTxXxX0828/KTxXxX0828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
