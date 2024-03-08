@@ -78,12 +78,9 @@ How to reach me:
 *Noob moment*
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/1200px-C_Sharp_Logo_2023.svg.png" width="50" height="50"
- onclick="location.href='https://en.wikipedia.org/wiki/C_Sharp_(programming_language)'"></img>
-<img src="https://play-lh.googleusercontent.com/RAA-PGAoUanS_aOu8qhDvQZ1d8jp_lhR_-zJrcvxpABgQtNQylCxNac_WvN-vVIz7Hw" width="50" height="50"
- onclick="location.href='https://en.wikipedia.org/wiki/C%2B%2B'"></img>
-<img src="https://user-images.githubusercontent.com/103866722/194773833-8571f323-4fa8-4036-a51c-57b9d29c683b.svg" width="50" height="50" 
-  onclick="location.href='https://en.wikipedia.org/wiki/Assembly_language'"></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/1200px-C_Sharp_Logo_2023.svg.png" width="50" height="50"></img>
+<img src="https://play-lh.googleusercontent.com/RAA-PGAoUanS_aOu8qhDvQZ1d8jp_lhR_-zJrcvxpABgQtNQylCxNac_WvN-vVIz7Hw" width="50" height="50"></img>
+<img src="https://user-images.githubusercontent.com/103866722/194773833-8571f323-4fa8-4036-a51c-57b9d29c683b.svg" width="50" height="50" ></img>
 
 
 <!--
