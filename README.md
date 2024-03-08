@@ -73,7 +73,7 @@ How to reach me:
 > My site
 > [Click me!](https://ktxxxx0828.github.io/KTsite)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktxxxx0828&hide=stars&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KTxXxX0828&layout=compact&hide=makefile&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 *Noob moment*
 
