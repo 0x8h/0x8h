@@ -12,6 +12,7 @@ Junior high school sophomore
 # Hi, my name is KT. (ptr35)
 ## I'm 14 years old.
 ### I am a junior high school student who is interested in the Internet and programming. There are only a few languages I can do, but I am learning them every day. (I used Translation :l)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KTxXxX0828&layout=compact&hide=makefile&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 # About me
 
 Skills:
@@ -72,8 +73,6 @@ How to reach me:
 
 > My site
 > [Click me!](https://ktxxxx0828.github.io/KTsite)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KTxXxX0828&layout=compact&hide=makefile&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 *Noob moment*
 
