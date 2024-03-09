@@ -79,7 +79,10 @@ How to reach me:
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktxxxx0828&hide=stars,issues&show_icons=true&border_radius=4.5&theme=radical&count_private=true&include_all_commits=true&hide_rank=true)
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ktxxxx0828&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ktxxxx0828&theme=onedark&row=1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Now
+[![spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=8gump1va2vedm2lekwyvwb2o3&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=8gump1va2vedm2lekwyvwb2o3&cover_image=true&theme=default&show_offline=true&background_color=5c5c5c&interchange=true&bar_color=ff00d0&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 
