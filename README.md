@@ -12,7 +12,6 @@ Junior high school sophomore
 # Hi, my name is KT. (ptr35)
 ## I'm 14 years old.
 ### I am a junior high school student who is interested in the Internet and programming. There are only a few languages I can do, but I am learning them every day. (I used Translation :l)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KTxXxX0828&layout=compact&hide=makefile&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 # About me
 
 Skills:
@@ -74,12 +73,12 @@ How to reach me:
 > My site
 > [Click me!](https://ktxxxx0828.github.io/KTsite)
 
-*Noob moment*
 
+### Data
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KTxXxX0828&layout=compact&hide=makefile&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktxxxx0828&hide=stars,issues&show_icons=true&border_radius=4.5&theme=radical&count_private=true&include_all_commits=true&hide_rank=true)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/1200px-C_Sharp_Logo_2023.svg.png" width="50" height="50"></img>
-<img src="https://play-lh.googleusercontent.com/RAA-PGAoUanS_aOu8qhDvQZ1d8jp_lhR_-zJrcvxpABgQtNQylCxNac_WvN-vVIz7Hw" width="50" height="50"></img>
-<img src="https://user-images.githubusercontent.com/103866722/194773833-8571f323-4fa8-4036-a51c-57b9d29c683b.svg" width="50" height="50" ></img>
 
 
 <!--
