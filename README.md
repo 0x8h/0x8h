@@ -78,6 +78,8 @@ How to reach me:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KTxXxX0828&layout=compact&hide=makefile&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktxxxx0828&hide=stars,issues&show_icons=true&border_radius=4.5&theme=radical&count_private=true&include_all_commits=true&hide_rank=true)
+<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ktxxxx0828&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
