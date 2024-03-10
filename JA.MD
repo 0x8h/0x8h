@@ -1,3 +1,4 @@
+[Switch en](https://github.com/KTxXxX0828/KTxXxX0828/blob/main/README.md)
 > *忙しい人用*
  # こんにちは、KTと申します。 (ptr35)
  １４歳のデベロッパー？です（日本人）
