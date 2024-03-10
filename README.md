@@ -1,3 +1,4 @@
+[Switch JP](https://github.com/KTxXxX0828/KTxXxX0828/blob/main/JA.MD)
 > *for busy people*
  ## My name is KT. (ptr35)
  14 years old developer from JP
