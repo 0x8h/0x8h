@@ -55,6 +55,7 @@ Using software:
 >* Resourcehacker
 >* Paint.net
 >* VGApainter
+>* JetBrains Rider (crack)
 
 Browser:
 >* Chromium
