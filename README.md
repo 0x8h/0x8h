@@ -1,69 +1,38 @@
-[Switch JP](https://github.com/KTxXxX0828/KTxXxX0828/blob/main/JA.MD)
-> *for busy people*
- ## My name is KT. (ptr35)
- 14 years old developer from JP
- <br>
- I learning C#, C++, python
- <br>
-Junior high school sophomore
- <br>
- thank you.
+### Hi there 👋
+**15-year-old small software developer from JP**
 
-> *for not busy people* 
-# Hi, my name is KT. (ptr35)
-## I'm 14 years old.
-### I am a junior high school student who is interested in the Internet and programming. There are only a few languages I can do, but I am learning them every day. (I used Translation :l)  
-# About me
-
-Skills:
->* C#(Learning now)
->* Html 
->* Css
->* Js
->* C++(Just a little but learning now)
->* python(Just a little but learning now)
-
-I Learning to:
->* C#
->* C++
->* python
->* x86 assembly
->* reverse engineer
->* English(LOL)
-
-I like:
->* Social study,English,PE
->* delicious food
->* cycling
->* and my favorite person!
->* sports
-
-I dont like:
->* math, sciense
->* annoying people
->* ball game
->* swimming
-
-Country:
->* Japanese 🗾
-
-Using software:
->* Visual studio code
->* Visual studio
->* IDA(or ImHex)
->* Visualbat
->* Resourcehacker
->* Paint.net
->* VGApainter
->* JetBrains Rider (crack)
-
-Browser:
->* Chromium
->* Brave
->* OperaGX
-
-How to reach me:
->* Send mail to ptr35sute1@bangban.uk (if mail deleted, I rewrite new mail.)
+- 🌱 I’m currently learning C#, C++/C, x86 assembly, python(LOL).
+- 📫 How to reach me: IDK
+- ⚡ Fun fact?: I started programming when I was 11 years old.
+- 💻 Main lang:C#
+- ❎ I am **not** open src dev.
+- 😄 Pronouns: nrhx, kt, sigma
+### lang
+![](https://img.shields.io/badge/-Clang-00599C.svg?logo=C&style=flat)
+![](https://img.shields.io/badge/-C++-00599C.svg?logo=C%2B%2B&style=flat)
+![](https://img.shields.io/badge/-Csharp-00599C.svg?logo=C%23&style=flat)
+![](https://img.shields.io/badge/-ps-00599C.svg?logo=powershell&style=flat)
+![hontohadekinai](https://img.shields.io/badge/-python-00599C.svg?logo=python&style=flat)
+![](https://img.shields.io/badge/-CMD-00599C.svg?logo=windows%20terminal&style=flat)
+![](https://img.shields.io/badge/-html-00599C.svg?logo=html5&style=flat)
+![](https://img.shields.io/badge/-Javascript-00599C.svg?logo=javascript&style=flat)
+### OS
+![](https://img.shields.io/badge/-Windows11-00599C.svg?logo=windows11&style=flat)
+![](https://img.shields.io/badge/-Windows10-00599C.svg?logo=windows10&style=flat)
+![](https://img.shields.io/badge/-WindowsXP-00599C.svg?logo=windowsxp&style=flat)
+![](https://img.shields.io/badge/-WindowsVista-00599C.svg?logo=windowsxp&style=flat)
+![](https://img.shields.io/badge/-Android-00599C.svg?logo=android&style=flat)
+### Tools
+![](https://img.shields.io/badge/-Visualstudio2022,2017-00599C.svg?logo=visualstudio&style=flat)
+![](https://img.shields.io/badge/-VScode-00599C.svg?logo=visual%20studio%20code&style=flat)
+![](https://img.shields.io/badge/-Spotify-00599C.svg?logo=Spotify&style=flat)
+![](https://img.shields.io/badge/-Amazon-00599C.svg?logo=amazon&style=flat)
+ ### PC
+ - CPU: i3 9100 3.60Ghz
+ - Memory: 32GB DDR4
+ - GPU: NO LOL!
+ - Strage: 256GB NVMe SSD, 128GB SATA SSD, 500GB HDD
+ - OS: Win11
 
 ### Links?
 > discord (Archive lol)
@@ -77,14 +46,13 @@ How to reach me:
 
 
 ### Data
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KTxXxX0828&layout=compact&hide=makefile&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktxxxx0828&hide=stars,issues&show_icons=true&border_radius=4.5&theme=radical&count_private=true&include_all_commits=true&hide_rank=true)
-<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=ktxxxx0828&theme=onedark&row=1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KTxXxX0828&layout=compact&hide=makefile&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktxxxx0828&hide=stars,issues&show_icons=true&border_radius=4.5&theme=radical&count_private=true&include_all_commits=true)
 
-## Now
-[![spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=8gump1va2vedm2lekwyvwb2o3&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=8gump1va2vedm2lekwyvwb2o3&cover_image=true&theme=default&show_offline=true&background_color=5c5c5c&interchange=true&bar_color=ff00d0&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{NrhX}/count.svg" /></p> 
 
 
 
