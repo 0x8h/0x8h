@@ -28,7 +28,7 @@
 ![](https://img.shields.io/badge/-Spotify-00599C.svg?logo=Spotify&style=flat)
 ![](https://img.shields.io/badge/-Amazon-00599C.svg?logo=amazon&style=flat)
  ### PC
- - CPU: i3 9100 3.60Ghz
+ - CPU: i3 9100 3.60Ghz　(upgrade to i7 9700k soon)
  - Memory: 32GB DDR4
  - GPU: NO LOL!
  - Strage: 256GB NVMe SSD, 128GB SATA SSD, 500GB HDD
@@ -52,7 +52,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktxxxx0828&hide=stars,issues&show_icons=true&border_radius=4.5&theme=radical&count_private=true&include_all_commits=true)
 
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{NrhX}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{KTxXxX0828}/count.svg" /></p> 
 
 
 
