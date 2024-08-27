@@ -2,6 +2,7 @@
 **15-year-old small software developer from JP**
 
 - 🌱 I’m currently learning C#, C++/C, x86 assembly, python(LOL).
+- 🤔 I'm interesting reverse engineering
 - 📫 How to reach me: IDK
 - ⚡ Fun fact?: I started programming when I was 11 years old.
 - 💻 Main lang:C#
