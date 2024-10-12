@@ -7,7 +7,8 @@
 - ⚡ Fun fact?: I started programming when I was 11 years old.
 - 💻 Main lang:C#
 - ❎ I am **not** open src dev.
-- 😄 Pronouns: nrhx, kt, sigma
+- 😄 Pronouns: sig
+- 👨‍💻 I'm developing disassembler application (with C#/++)
 ### lang
 ![](https://img.shields.io/badge/-Clang-00599C.svg?logo=C&style=flat)
 ![](https://img.shields.io/badge/-C++-00599C.svg?logo=C%2B%2B&style=flat)
