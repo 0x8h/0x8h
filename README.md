@@ -55,10 +55,10 @@
 
 
 ### Data
-[![trophy](https://github-profile-trophy.vercel.app/?username=ktxxxx0828&theme=onedark&row=1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Athree7&theme=onedark&row=1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KTxXxX0828&layout=compact&hide=makefile&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktxxxx0828&hide=stars,issues&show_icons=true&border_radius=4.5&theme=radical&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Athree7&layout=compact&hide=makefile&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Athree7&hide=stars,issues&show_icons=true&border_radius=4.5&theme=radical&count_private=true&include_all_commits=true)
 
 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{KTxXxX0828}/count.svg" /></p> 
