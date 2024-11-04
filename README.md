@@ -1,12 +1,5 @@
 <h1 align="center">A777</h1>
 
-**15-year-old small software developer from JP**
-
-- 🌱 I’m currently learning C#, C++/C, x86 assembly.
-- 🤔 I'm interesting reverse engineering
-- 💻 Main lang:C#
-- ❎ I am **not** open src dev.
-- 👨‍💻 I'm developing disassembler application (with C#/++)
 ### Language
 ![](https://img.shields.io/badge/-Clang-00599C.svg?logo=C&style=flat)
 ![](https://img.shields.io/badge/-C++-00599C.svg?logo=C%2B%2B&style=flat)
@@ -27,21 +20,7 @@
 ![](https://img.shields.io/badge/-VScode-00599C.svg?logo=visual%20studio%20code&style=flat)
 ![](https://img.shields.io/badge/-Spotify-00599C.svg?logo=Spotify&style=flat)
 ![](https://img.shields.io/badge/-Amazon-00599C.svg?logo=amazon&style=flat)
-<h2 align="center">For work PC</h2>
 
- - CPU: i3 9100 3.60Ghz
- - Memory: 32GB DDR4
- - GPU: NO LOL!
- - Strage: 256GB NVMe SSD, 128GB SATA SSD, 500GB HDD
- - OS: Win11
-
-<h2 align="center">For game PC</h2>
-
-- CPU: Ryzen7 3700X
-- Memory: 16gb DDR4
-- GPU: RTX 2070 S
-- Strage: 500GB NVMe SSD 1tb hdd x2
-- OS: win10
 
 <!-- ### Links?
 > discord (Archive lol)
