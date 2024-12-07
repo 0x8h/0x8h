@@ -1,4 +1,5 @@
 <h1 align="center">A777</h1>
+<p align="center"><img src="https://raw.githubusercontent.com/Athree7/Athree7/refs/heads/main/b.png"></img></p>
 
 ### Language and enviroment
 **Launguage**
@@ -22,20 +23,3 @@
 <img alt="3" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athree7&layout=compact&hide=makefile&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats">
 </p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{KTxXxX0828}/count.svg" /></p> 
-
-
-
-<!--
-**KTxXxX0828/KTxXxX0828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
