@@ -1,14 +1,13 @@
 <h1 align="center">A777</h1>
-<p align="center"><img src="https://raw.githubusercontent.com/Athree7/Athree7/refs/heads/main/b.png"></img></p>
 
 ### Language and enviroment
-**Launguage**
+**Launguage (Good -> Bad)**
 
-[![](https://skillicons.dev/icons?i=cs,c,cpp,html,javascript,python)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=cs,c,cpp,typescript,python,javascript)](https://skillicons.dev) + asm
 
 **Enviroment**
 
-[![](https://skillicons.dev/icons?i=rider,cmake,vscode,github,windows,visualstudio,kali,linux,ubuntu,clion,blender)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=rider,cmake,vscode,github,windows,visualstudio,kali,linux,ubuntu,clion,blender,qt)](https://skillicons.dev)
 ### Project
 <img alt="my stats" align="right" height="100px" src="https://github-readme-stats.vercel.app/api?username=Athree7&hide=stars,issues&show_icons=true&border_radius=4.5&theme=radical&count_private=true&include_all_commits=true"></img>
 - Disassember (not release yet, Developing.)
