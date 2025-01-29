@@ -14,6 +14,7 @@
 - Disassember (not release yet, Developing.)
 - OS dev (developing)
 - gdi trojan (sometime i develop)
+- .Net Obfuscate tool(Obsidian)
 
 ### Data
 <p align="center">
